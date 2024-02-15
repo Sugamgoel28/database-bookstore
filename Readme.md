@@ -187,3 +187,4 @@ WHERE
 
 ---
 
+> Thank you! Show you support by ⭐ the repository.
